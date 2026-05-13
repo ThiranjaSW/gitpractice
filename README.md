@@ -1,4 +1,6 @@
 Hello Git
 New line
-Line 1
+This is conflict version A
 Another line
+
+
