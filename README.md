@@ -1,4 +1,4 @@
-Hello Git (Bug Fix Version)
+Hello Git (Main Version)
 New line
 Line 1
 Another line
