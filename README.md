@@ -1,4 +1,6 @@
 Hello Git
 New line
-This is conflict version B
+Final combined version
 Another line
+
+
